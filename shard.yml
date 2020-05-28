@@ -1,0 +1,9 @@
+name: xss_test
+version: 0.1.0
+
+authors:
+  - Jesse Doyle <jdoyle@ualberta.ca>
+
+crystal: 0.34.0
+
+license: MIT
